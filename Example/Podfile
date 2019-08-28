@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FFFCategoryKit_Tests' do
+  pod 'FFFCategoryKit', :path => '../'
+  
+  
+end
